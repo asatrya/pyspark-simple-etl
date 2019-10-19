@@ -1,0 +1,6 @@
+.vscode
+venv
+summary.json
+spark-warehouse
+lib
+requirements.txt
